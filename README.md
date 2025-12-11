@@ -1,14 +1,14 @@
-🍕 Pizza Sales Analytics — SQL + Power BI (End-to-End Project)
+    🍕 Pizza Sales Analytics — SQL + Power BI (End-to-End Project)
 
 This repository contains a complete end-to-end Data Analytics project built using SQL and Power BI, focused on analyzing pizza sales performance.
 The project covers the entire analytics pipeline — from raw data to interactive dashboards — showcasing the essential skills required for a Data Analyst / BI Analyst role.
 
-🚀 Project Objective
+    🚀 Project Objective
 
 To analyze pizza sales data and generate insights that support business decision-making.
 This includes identifying top-performing categories, revenue trends, peak sales periods, and customer behavior patterns.
 
-🛠 Tools & Technologies Used
+    🛠 Tools & Technologies Used
 
 SQL — Data cleaning, transformation, joins, KPI creation
 
@@ -20,7 +20,7 @@ DAX — KPI calculations and custom metrics
 
 Data Visualization & Storytelling
 
-📁 Project Structure
+    📁 Project Structure
 sql-powerbi-analytics-project/
 │
 ├── Dataset/
@@ -35,7 +35,7 @@ sql-powerbi-analytics-project/
 └── SQL/
     └── SQL_queries.sql         → Contains SQL scripts used for cleaning, transforming, and analyzing data.
 
-📊 Key Features of the Project
+    📊 Key Features of the Project
 
 ✔ Complete SQL-based data cleaning
 ✔ Joins, aggregations, and transformations
@@ -45,7 +45,7 @@ sql-powerbi-analytics-project/
 ✔ Business insights summarized visually
 ✔ Real-world analytics workflow
 
-🔍 Analysis Performed
+    🔍 Analysis Performed
 1️⃣ SQL Data Preparation
 
 Removed null/duplicate values
@@ -96,7 +96,7 @@ Top & Bottom Pizzas
 
 Slicers for interactivity
 
-🌟 Insights Delivered
+    🌟 Insights Delivered
 
 Some example insights discovered using this dataset:
 
@@ -112,7 +112,7 @@ Seasonal/monthly trends show clear sales variation patterns.
 
 (These can be customized based on your exact dataset.)
 
-📥 How to Use This Project
+    📥 How to Use This Project
 
 Clone or download the repository
 
@@ -124,15 +124,15 @@ Load dataset if required (Power BI auto-connects if paths match)
 
 Interact with dashboard filters and visuals
 
-🤝 Contributions
+    🤝 Contributions
 
 Contributions and suggestions are welcome!
 Feel free to submit a pull request or raise an issue.
-
-⭐ If You Found This Helpful
+    
+    ⭐ If You Found This Helpful
 
 Please consider starring ⭐ the repository — it helps support the project and boosts visibility!
 
-📬 Connect With Me
+    📬 Connect With Me
 
 If you'd like to collaborate on BI or analytics projects, feel free to reach out!
